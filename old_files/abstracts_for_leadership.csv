@@ -1,0 +1,335 @@
+,institution,count
+0,Abington Jefferson Health,1
+1,Addis Ababa University,2
+2,Aga Khan University Medical College,21
+3,Ahmadu Bello University,1
+4,Albany Medical College,3
+5,Albert Einstein College Of Medicine,2
+6,American College Of Surgeons,3
+7,Ann And Robert H. Lurie Children'S Hospital,1
+8,Ann And Robert H. Lurie Children'S Hospital Of Chicago,3
+9,Anne Marion Burnett School Of Medicine At Texas Christian University,1
+10,Antiguo Hospital Civil De Guadalajara,1
+11,Ascension Providence Hospital,3
+12,Atrium Health,2
+13,Bassett Medical Center,1
+14,Baylor College Of Medicine,31
+15,Baylor College Of Medicine & Texas Children'S Hospital,2
+16,Baylor Scott & White All Saints Medical Center,2
+17,Baystate Medical Center,1
+18,Beth Israel Deaconess Medical Center,16
+19,Bolan Medical Complex Hospital,2
+20,Boston Children'S Hospital,3
+21,Boston University,11
+22,Boulder Community Health,1
+23,Brigham And Women'S Hospital,16
+24,Brooke Army Medical Center,1
+25,Brown University School Of Medicine,7
+26,California Northstate University,4
+27,California Northstate University College Of Medicine,1
+28,Carle Illinois College Of Medicine,1
+29,Carolinas Medical Center,4
+30,Case Western Reserve University School Of Medicine,7
+31,Cedars-Sinai Medical Center,2
+32,Center For Surgery And Public Health,1
+33,Chelsea And Westminster Hospital Nhs Trust,1
+34,Children'S Hospital Boston,2
+35,Children'S Hospital Colorado,3
+36,Children'S Hospital Los Angeles,4
+37,Children'S Hospital Of Philadelphia,1
+38,Children'S Hospital Of Pittsburgh Of Upmc,3
+39,Children'S Hospital Of Wisconsin,1
+40,Children'S Mercy Hospital- University Of Missouri Kansas City,2
+41,Children'S Mercy Hospital-University Of Missouri Kansas City,5
+42,Children'S National Hospital,1
+43,Childrens Hospital Of Philadelphia Research Institute,1
+44,Chop Center For Fetal Research,1
+45,Christiana Care,2
+46,Cincinnati Children'S Hospital Medical Center,5
+47,City Of Hope National Medical Center,2
+48,Cleveland Clinic,4
+49,Cohen Children'S Medical Center At Northwell Health,1
+50,Columbia University Irving Medical Center,6
+51,Concord Repatriation General Hospital,2
+52,Cooper University Hospital,3
+53,Creighton University Medical Center,6
+54,Crozer Health,1
+55,Darlington Memorial Hospital,1
+56,Dartmouth Hitchcock Medical Center,12
+57,Data Science Center For The Study Of Surgery,1
+58,Delray Medical Center,9
+59,Denver Health Medical Center,2
+60,Department Of Pediatric Surgery,1
+61,Detroit Medical Center,1
+62,Donald And Barbara Zucker School Of Medicine At Hofstra/Northwell,2
+63,Dorrington Medical Associates,1
+64,Drexel University College Of Medicine,1
+65,Duke Children'S Health Center,1
+66,Duke University Medical Center,20
+67,Durban Unniversity Of Technology,1
+68,East Carolina University Brody School Of Medicine,4
+69,East Tennessee State University,1
+70,Eastern Regional Hospital,1
+71,Eastern Virginia Medical School,1
+72,Emory University School Of Medicine,9
+73,Faculty Of Health Sciences,2
+74,Federal Medical Centre Abuja,1
+75,Firefighters Burn And Surgical Research Laboratory,1
+76,Florida International University,1
+77,Fox Chase Cancer Center,7
+78,Frank H. Netter Md School Of Medicine,1
+79,Geisinger Commonwealth School Of Medicine,2
+80,Geisinger Medical Center,4
+81,George Washington University,7
+82,Georgetown University Medical Center,8
+83,Grady Memorial Hospital,1
+84,Greater Los Angeles Veterans Administration Healthcare System,1
+85,Gunma University Graduate School Of Medicine,1
+86,Guthrie Clinic,2
+87,Guthrie Robert Packer Hospital,4
+88,Hackensack Meridian Health,4
+89,Hadassah-Hebrew University Medical Center,1
+90,Hamad Medical Corporation,2
+91,Harvard Medical School,14
+92,Hca Healthcare,2
+93,Hiroshima University,1
+94,Hospital For Sick Children,1
+95,Hospital Of The University Of Pennsylvania,28
+96,Houston Methodist Hospital,2
+97,Howard University College Of Medicine,5
+98,Huntsman Cancer Institute At The University Of Utah,1
+99,Hurley Medical Center,2
+100,Imperial College London,4
+101,Indiana University School Of Medicine,33
+102,Institute Of Medical Science,1
+103,Intermountain Medical Center,1
+104,Intermountain Primary Children'S Hospital,1
+105,Jaber Alahmad Alsabah Hospital,1
+106,Jefferson Pancreatic,1
+107,Jefferson Univeristy Hospital,1
+108,Jellison Cancer Institute/ Florida State University,1
+109,Jellison Cancer Institute/Florida State University College Of Medicine,1
+110,Johns Hopkins All Children'S Hospital,1
+111,Johns Hopkins University School Of Medicine,38
+112,Kaweah Health Medical Center,2
+113,Keck Medical Center Of University Of Southern California,1
+114,Keck School Of Medicine,2
+115,King Chulalongkorn Memorial Hospital,1
+116,King Edward Medical University,2
+117,King George Medical University,3
+118,King George'S Medical University (Kgmu),1
+119,King'S College London,2
+120,Kings County Hospital Center,1
+121,Kobe University Graduate School Of Medicine,1
+122,Kyoto University,1
+123,Kyushu University,1
+124,Laboratory For Fetal And Regenerative Biology,2
+125,Lahey Hospital And Medical Center,3
+126,Latin American School Of Medicine (Elam),1
+127,Lehigh Valley Health Network,1
+128,Lewis Katz School Of Medicine,5
+129,Loma Linda University School Of Medicine,2
+130,Louisiana State University Health Sciences Center,35
+131,Loyola University Chicago Stritch School Of Medicine,2
+132,Loyola University Medical Center,1
+133,Macquarie University,1
+134,Madigan Army Medical Center,1
+135,Marin Health Medical Center,1
+136,Massachusetts General Hospital,35
+137,Maulana Azad Medical College,1
+138,Mayo Clinic,6
+139,Mayo Clinic - Florida,2
+140,Medical College Of Georgia,5
+141,Medical College Of Wisconsin,27
+142,Medical University Of South Carolina,5
+143,Meharry Medical College,1
+144,Memorial Healthcare System,2
+145,Methodist Debakey Heart And Vascular Center,1
+146,Metrohealth Medical Center,3
+147,Missouri State University,1
+148,Moffitt Cancer Center And Research Institute,10
+149,Monroe Carell Jr. Childrens Hospital At Vanderbilt,1
+150,Mount Sinai School Of Medicine,14
+151,National Cancer Institute,1
+152,National Institutes Of Health,1
+153,National Taiwan University Hospital,1
+154,National University Of Rwanda,4
+155,Nationwide Children'S Hospital,1
+156,Naval Medical Research Unit San Antonio,2
+157,Nemours Children Hospital,1
+158,Nemours Children'S Health,1
+159,Neurological Institute Of Thailand,1
+160,New Jersey Medical School,7
+161,New York College Of Osteopathic Medicine,2
+162,New York Institute Of Technology College Of Osteopathic Medicine,3
+163,New York Medical College,4
+164,New York University School Of Medicine,2
+165,Newyork-Presbyterian Brooklyn Methodist Hospital,1
+166,Newyork-Presbyterian Queens Hospital,3
+167,Nkafu Policy Institute,1
+168,North Shore University And Long Island Jewish Medical Center,2
+169,Northwell Health,2
+170,Northwestern University,30
+171,Nova Southeastern University,4
+172,Nova Southeastern University Dr Kiran C Patel College Of Allopathic Medicine,1
+173,Nova Southeastern University Dr. Kiran C Patel College Of Allopathic Medicine,1
+174,Nuvance Health,1
+175,Nyu Grossman School Of Medicine,1
+176,Nyu Langone Health,3
+177,Ochsner Clinic Foundation,1
+178,Ohio State University,22
+179,Ohiohealth Grant Medical Center,3
+180,Oklahoma Childrens Hospital,1
+181,One Brooklyn Health,2
+182,Oregon Health And Science University,5
+183,Orlando Health,1
+184,Orlando Regional Medical Center,3
+185,Osf St. Francis Medical Center,1
+186,Penn Medicine Lancaster General Health,2
+187,Penn State Hershey Medical Center,21
+188,Pennington Biomedical Research Center,1
+189,Philadelphia College Of Osteopathic Medicine,1
+190,Phoenix Children'S,2
+191,Price Institute Of Surgical Research,3
+192,Program In Global Surgery And Social Change,5
+193,Radboud University Medical Center,2
+194,Radboudumc,2
+195,Rady Children'S Hospital San Diego,1
+196,Rainbow Babies And Children'S Hospital,1
+197,Rhode Island Hospital,6
+198,Robert Wood Johnson - Umdnj,7
+199,Rocky Vista University,5
+200,Roswell Park Cancer Institute,5
+201,Roswell Park Comprehensive Cancer Center,3
+202,Rush University Medical Center,2
+203,Rutgers Cancer Institute Of New Jersey,1
+204,Rutgers Robert Wood Johnson Medical School,5
+205,Rwj/Barnabas Health Community Medical Center,1
+206,Saint James School Of Medicine,1
+207,Saint Louis University School Of Medicine,1
+208,Sandeman Provinical Hospital/Bolan Medical College,1
+209,Sandman Provincial Hospital/ Bolan Medical College,4
+210,Seattle Children'S Hospital,4
+211,Second Trial Coordinating Center,1
+212,Shinshu University School Of Medicine,1
+213,Sinai Hospital Of Baltimore,2
+214,Singapore General Hospital,1
+215,Singapore Health Services,1
+216,South Shore University Hospital,2
+217,Southern Illinois University School Of Medicine,1
+218,St. Jude Children'S Research Hospital,1
+219,St. Luke'S University Health Network,1
+220,St. Peter Specialized Hospital,1
+221,Stanford University,28
+222,State University Of Haiti,1
+223,State University Of New York At Buffalo,8
+224,Staten Island University Hospital,2
+225,Stony Brook University Medical Center,6
+226,Suny Downstate College Of Medicine,1
+227,Suny Downstate Health Sciences University,13
+228,Suny Upstate Medical University,2
+229,Surgical Oncology Program,1
+230,Sustainable Trauma,1
+231,Synvesta Vascular Care,1
+232,Temple University,21
+233,Texas A&M University,1
+234,Texas Children'S Hospital,11
+235,Texas Health Harris Methodist Fort Worth,2
+236,Texas Tech University Health Sciences Center,1
+237,The Center For Surgery And Health Economics,1
+238,The Children'S Hospital Of Alabama,1
+239,The Feinstein Institute For Medical Research,1
+240,The Hospital For Sick Children,3
+241,The Medical University Of South Carolina,3
+242,The Mount Sinai Hospital,1
+243,The Princess Alexandra Hospital Nhs Trust,1
+244,Thomas Jefferson University,7
+245,Tokyo Medical And Dental University,1
+246,Tufts Medical Center,1
+247,Tulane University School Of Medicine,3
+248,Uc Riverside,1
+249,Ucla Core Lab,2
+250,Uniformed Services University Of The Health Sciences,1
+251,Universidad De La Sabana,3
+252,Universidad Del Azuay,1
+253,University Hospitals,1
+254,University Hospitals Cleveland Medical Center,12
+255,University Of Alabama At Birmingham,77
+256,University Of Arizona,25
+257,University Of Arkansas For Medical Sciences,2
+258,University Of Auckland,3
+259,University Of Buea,2
+260,University Of Calgary,1
+261,University Of California - Davis,3
+262,University Of California - Irvine,7
+263,University Of California - Los Angeles,52
+264,University Of California - San Diego,14
+265,University Of California - San Francisco,17
+266,University Of Cambridge,1
+267,University Of Cape Town,1
+268,University Of Central Florida/Hca Healthcare Gme Consortium,1
+269,University Of Chicago,28
+270,University Of Cincinnati,20
+271,University Of Colorado Denver,28
+272,University Of Connecticut School Of Medicine,1
+273,University Of Edinburgh,1
+274,University Of Florida,14
+275,University Of Global Health Equity,2
+276,University Of Hawaii,2
+277,University Of Illinois College Of Medicine Rockford,1
+278,University Of Iowa,10
+279,University Of Kansas,2
+280,University Of Kansas Medical Center,2
+281,University Of Kentucky,4
+282,University Of Louisville,9
+283,University Of Maryland,2
+284,University Of Miami,22
+285,University Of Michigan,56
+286,University Of Minnesota,8
+287,University Of Mississippi,2
+288,University Of Nebraska College Of Medicine,10
+289,University Of Nevada,1
+290,University Of New Mexico Hsc,2
+291,University Of North Carolina At Chapel Hill,26
+292,University Of North Dakota,1
+293,University Of Oklahoma College Of Medicine,7
+294,University Of Pittsburgh,34
+295,University Of Rochester,11
+296,University Of South Alabama,7
+297,University Of South Florida College Of Medicine,10
+298,University Of Southern California,5
+299,University Of Tennessee Health Science Center,4
+300,University Of Texas At Austin Dell Medical School,1
+301,University Of Texas Health Science Center At Houston,12
+302,University Of Texas Health Science Center At San Antonio,1
+303,University Of Texas Md Anderson Cancer Center,3
+304,University Of Texas Medical Branch,9
+305,University Of Texas Southwestern Medical Center,34
+306,University Of Toledo Medical Center,1
+307,University Of Toronto,1
+308,University Of Tripoli,2
+309,University Of Utah,11
+310,University Of Vermont College Of Medicine / Fletcher Allen Health Care,8
+311,University Of Virginia,25
+312,University Of Washington,1
+313,University Of Wisconsin,11
+314,Upmc Division Of Surgical Oncology,1
+315,Usf Health Morsani College Of Medicine,1
+316,Va Palo Alto Healthcare Systems,1
+317,Va White River Junction,1
+318,Vanderbilt University Medical Center,6
+319,Vascular Biology Program,1
+320,Virginia Commonwealth University,2
+321,Virginia Tech Carilion School Of Medicine,4
+322,Wake Forest University School Of Medicine,4
+323,Wakemed Health & Hospitals,1
+324,Washington Hospital Center,1
+325,Washington University In St. Louis,8
+326,Wayne State University,2
+327,Weill Cornell Medical College,5
+328,West Virginia University,4
+329,Westchester Medical Center,5
+330,Western Michigan University Homer Stryker Md School Of Medicine,2
+331,Westmead Hospital,2
+332,Wright State University,2
+333,Yale University School Of Medicine,11
